@@ -1,0 +1,107 @@
+{
+  "id": "/#/",
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "Notes App",
+  "short_name": "Notes",
+  "description": "Aplikasi notes memungkinkan orang-orang untuk menuliskan daftar aktivitas yang mereka lakukan sehari-hari. Dengan aplikasi ini, orang-orang dapat dengan lebih mudah mengatur priotias aktivitas yang mereka lakukan.",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "images/icons/note-x-48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-192.png.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/note-x-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/desktop-1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/desktop-2.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/desktop-3.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/mobile-1.png",
+      "sizes": "1080x1350",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/mobile-2.png",
+      "sizes": "1080x1350",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/mobile-3.png",
+      "sizes": "1080x1350",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shorcuts": [
+    {
+      "name": "Tambah Catatan",
+      "short_name": "Baru",
+      "description": "Membuat catatan baru",
+      "url": "/?source=pwa#/new",
+      "icons": [
+        {
+          "src": "images/icons/add-x-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}
